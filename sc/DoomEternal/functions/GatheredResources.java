@@ -34,7 +34,6 @@ public class GatheredResources {
             GatheredResources.images.put("baronWin1", ImageIO.read(Objects.requireNonNull(GatheredResources.class.getClassLoader().getResource("baronWin1.png"))));
             GatheredResources.images.put("baronWin2", ImageIO.read(Objects.requireNonNull(GatheredResources.class.getClassLoader().getResource("baronWin2.png"))));
 
-
             //Player Images
             GatheredResources.images.put("doom", ImageIO.read(Objects.requireNonNull(GatheredResources.class.getClassLoader().getResource("Player/doom.png"))));
             GatheredResources.images.put("doom0", ImageIO.read(Objects.requireNonNull(GatheredResources.class.getClassLoader().getResource("Player/doom0.png"))));

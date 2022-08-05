@@ -108,7 +108,6 @@ public class GameWorld extends JPanel implements Runnable {
                 switch (bluePrint.get(y).get(x)) {
                     case ("0"):  //empty space
                         continue;
-
                     case ("B"):     //breakable wall
                         BufferedImage breakable = GatheredResources.getImage("bWall");
                         Wall bWall = new Wall(x * 32, y * 32, 0, breakable, true);
