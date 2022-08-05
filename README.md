@@ -23,13 +23,13 @@ The jar folder is to be used to store the built jar of your term-project.
 
 # Required Information when Submitting Tank Game
 
-## Version of Java Used:
+## Version of Java Used: JDK 18
 
-## IDE used: 
+## IDE used: IntelliJ  
 
-## Steps to Import project into IDE:
+## Steps to Import project into IDE: Open folder csc413.tankga... as project structure.
 
-## Steps to Build your Project:
+## Steps to Build your Project: Make sure 
  
 ## Steps to run your Project:
 
