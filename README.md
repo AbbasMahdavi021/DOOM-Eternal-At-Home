@@ -23,16 +23,21 @@ The jar folder is to be used to store the built jar of your term-project.
 
 # Required Information when Submitting Tank Game
 
-## Version of Java Used: JDK 18
+## Version of Java Used: 
+JDK 18
 
-## IDE used: IntelliJ  
+## IDE used: 
+IntelliJ  
 
-## Steps to Import project into IDE: Open folder csc413.tankga... as project structure.
+## Steps to Import project into IDE: 
+Open folder csc413.tankga... as project structure.
 
-## Steps to Build your Project: Make sure src folder is Blue (Source Root), resources folder as Resources Root,
+## Steps to Build your Project: 
+Make sure src folder is Blue (Source Root), resources folder as Resources Root,
 Make sure SDK is set up.
  
-## Steps to run your Project: Right click on Launcher class in src/DoomEternal, and click Run. 
+## Steps to run your Project: 
+Right click on Launcher class in src/DoomEternal, and click Run. 
 Jar file is also available for just running the game. 
 
 ## Controls to play your Game:
