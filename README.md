@@ -1,44 +1,37 @@
-# csc413-tankgame
+# 2D-DoomEternal-2PlayerJavaGame
 
+Welcome to 2D-DoomEternal-2PlayerJavaGame! This project is a visually stunning 2D game inspired by Doom Eternal, where one player controls Doom Guy and the other plays as the Baron of Hell. Engage in intense battles within a confined area, filled with wooden and unbreakable boxes forming the map. Break boxes to collect loot, improve your stats, and gain health.
 
-| Student Information |                    |
-|:-------------------:|--------------------|
-|  Student Name       | Abbas Mahdavi      |
-|  Student Email      | amahdavi2@sfsu.edu |
+## Game Features
 
-## src Folder Purpose 
-src folder is to be used to store source code only.
+- **Player Characters:** Take control of Doom Guy or the Baron of Hell, each with unique abilities and playstyles. Engage in head-to-head battles in a close-quarters environment.
 
-## resources Folder Purpose 
-resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
+- **Box Breakage and Loot:** Break wooden boxes scattered across the map to uncover valuable loot. Loot can enhance your stats, including bullet count, armor, damage, and fire rate. Collect health to maintain your vitality.
 
-`The src and resources folders can be deleted if you want a different file structure`
+- **Health, Hearts, and Victory:** Each player starts with a health bar and three hearts. When the health bar reaches zero, lose a heart. The first player to lose all three hearts loses the game, while the other emerges victorious.
 
-## jar Folder Purpose 
-The jar folder is to be used to store the built jar of your term-project.
+- **Various Weapons:** Discover a range of weapons with distinct abilities, such as rockets and mines. Utilize different strategies to outsmart and defeat your opponent.
 
-`NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED`
+- **Mini Map and Player Panels:** A mini-map provides an overview of the entire map, while separate zoomed-in panels showcase the gameplay for each player. Additional panels display player movement, stats, and movement keys.
 
-`THIS FOLDER CAN NOT BE DELETED OR MOVED`
+- **Sound Effects and Doom Music:** Immerse yourself in the game with captivating sound effects and the iconic music from Doom, creating a thrilling and immersive gaming experience.
 
-# Required Information when Submitting Tank Game
+## Java Functionalities and Proficiency
 
-## Version of Java Used: 
-JDK 18
+2D-DoomEternal-2PlayerJavaGame is developed in Java, showcasing the utilization of various Java functionalities, including polymorphism and inheritance. The project demonstrates my proficiency in Java programming and the ability to implement complex game mechanics and visual elements.
 
-## IDE used: 
-IntelliJ  
+Other JAVA key concepts and functionalities used:
+Classes and Objects | Interfaces | Packages | Exception Handling | Generics | Multithreading | FPS Handeling
 
-## Steps to Import project into IDE: 
-Open folder csc413.tankga... as project structure.
+## Visual Elements
 
-## Steps to Build your Project: 
-Make sure src folder is Blue (Source Root), resources folder as Resources Root,
-Make sure SDK is set up.
- 
-## Steps to run your Project: 
-Right click on Launcher class in src/DoomEternal, and click Run. 
-Jar file is also available for just running the game. 
+All visual elements, including the main characters and their animations, have been created using Blender software and further refined in Photoshop. Despite the small image size and top-down view, the visuals are meticulously crafted to deliver an excellent and visually immersive experience.
+
+## Download and Play
+
+To experience the game for yourself, download and run the .jar file from the "application/jar" folder. Immerse yourself in the action, enjoy the visuals, and have an incredible time battling it out with a friend!
+
+Please note that this project is for viewing and playing purposes only, and contributions are not being accepted at this time.
 
 ## Controls to play your Game:
 
@@ -50,4 +43,12 @@ Jar file is also available for just running the game.
 |  Rotate Right | d        | right    |
 |  Shoot        | space    | enter    |
 
-<!-- you may add more controls if you need to. -->
+## Enjoy the Game!
+
+Thank you for your interest in 2D-DoomEternal-2PlayerJavaGame. Get ready to embark on an exciting journey filled with intense battles, strategic gameplay, and a visually stunning world. Enjoy the classic Doom music and unforgettable gaming moments. Have fun, and may the best player emerge victorious!
+
+## Version of Java Used: 
+JDK 18
+
+## IDE used: 
+IntelliJ  
