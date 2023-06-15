@@ -1,4 +1,4 @@
-# 2D-DoomEternal-2PlayerJavaGame
+# DOOM Eternal: 2D Java Battle
 
 Welcome to 2D-DoomEternal-2PlayerJavaGame! This project is a visually stunning 2D game inspired by Doom Eternal, where one player controls Doom Guy and the other plays as the Baron of Hell. Engage in intense battles within a confined area, filled with wooden and unbreakable boxes forming the map. Break boxes to collect loot, improve your stats, and gain health.
 
