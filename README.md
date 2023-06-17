@@ -2,6 +2,8 @@
 
 Welcome to DEAH: a 2D-DoomEternal-2Player Java Game! This project is a visually stunning 2D game inspired by Doom Eternal, where one player controls Doom Guy and the other plays as the Baron of Hell. Engage in intense battles within a confined area, filled with wooden and unbreakable boxes forming the map. Break boxes to collect loot, improve your stats, and gain health.
 
+Game JAR file can be found at DEAH site: https://deah-site.vercel.app/
+
 ## Game Features
 
 - **Player Characters:** Take control of Doom Guy or the Baron of Hell, each with unique abilities and playstyles. Engage in head-to-head battles in a close-quarters environment.
