@@ -31,7 +31,11 @@ All visual elements, including the main characters and their animations, have be
 
 ## Download and Play
 
-To experience the game for yourself, download and run the .jar file from the "application/jar" folder. Immerse yourself in the action, enjoy the visuals, and have an incredible time battling it out with a friend!
+To experience the game for yourself, download and run the .jar file from the official DEAH site: 
+
+https://deah-site.vercel.app/#download 
+
+Immerse yourself in the action, enjoy the visuals, and have an incredible time battling it out with a friend!
 
 Please note that this project is for viewing and playing purposes only, and contributions are not being accepted at this time.
 
